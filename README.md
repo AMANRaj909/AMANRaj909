@@ -1,8 +1,15 @@
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
-  <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=7AA2F7&background=1A1B27&center=true&vCenter=true&width=600&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Aman+Raj;Building+scalable+software;AI%2FML+%7C+Full-Stack+%7C+DSA" alt="Typing SVG" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
+      </td>
+      <td align="center">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=7AA2F7&background=1A1B27&center=true&vCenter=true&width=500&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Aman+Raj;Building+scalable+software;AI%2FML+%7C+Full-Stack+%7C+DSA" alt="Typing SVG" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
@@ -70,13 +77,16 @@ Hi there! I'm Aman Raj, a passionate **Software Engineer** with a knack for buil
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  ![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMANRaj909&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-  
-  ![Aman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AMANRaj909&theme=tokyonight&hide_border=false)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMANRaj909&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=AMANRaj909&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="Aman's GitHub Stats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMANRaj909&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
