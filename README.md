@@ -1,15 +1,8 @@
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
-      </td>
-      <td align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=7AA2F7&background=1A1B27&center=true&vCenter=true&width=500&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Aman+Raj;Building+scalable+software;AI%2FML+%7C+Full-Stack+%7C+DSA" alt="Typing SVG" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+  <br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=7AA2F7&background=1A1B27&center=true&vCenter=true&width=600&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Aman+Raj;Building+scalable+software;AI%2FML+%7C+Full-Stack+%7C+DSA" alt="Typing SVG" />
 </div>
 
 <br>
@@ -18,11 +11,21 @@
 
 <p align="center">
   <samp>
-    <a href="https://www.linkedin.com/in/amanraj01/">linkedin</a> .
-    <a href="https://github.com/AMANRaj909/">github</a> .
-    <a href="https://leetcode.com/u/Amanconnect010/">leetcode</a> .
-    <a href="https://aman-raj-portfolio-8hej.onrender.com">portfolio</a> .
-    <a href="https://drive.google.com/file/d/1L54QIsI_nfSnKvAwvtPvS2ReXmMgQc-7/view?usp=drive_link">resume</a>
+    <a href="https://www.linkedin.com/in/amanraj01/">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a> .
+    <a href="https://github.com/AMANRaj909/">
+      <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+    </a> .
+    <a href="https://leetcode.com/u/Amanconnect010/">
+      <img src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
+    </a> .
+    <a href="https://aman-raj-portfolio-8hej.onrender.com">
+      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
+    </a> .
+    <a href="https://drive.google.com/file/d/1L54QIsI_nfSnKvAwvtPvS2ReXmMgQc-7/view?usp=drive_link">
+      <img src="https://img.shields.io/badge/Resume-%23000000.svg?style=flat&logo=googledrive&logoColor=white" alt="Resume"/>
+    </a>
   </samp>
 </p>
 
@@ -71,23 +74,6 @@ Hi there! I'm Aman Raj, a passionate **Software Engineer** with a knack for buil
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=AMANRaj909&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="Aman's GitHub Stats"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMANRaj909&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <br>
 
